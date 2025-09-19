@@ -1,0 +1,82 @@
+[
+  {
+    "ship_id": 201,
+    "ship_name": "Eta-2 Actis-class Interceptor",
+    "manufacturer": "Kuat Systems Engineering",
+    "armed": true,
+    "crew_capacity": 1,
+    "image_url": "https://starwars-visualguide.com/assets/img/starships/39.jpg"
+  },
+  {
+    "ship_id": 202,
+    "ship_name": "Jedi Interceptor",
+    "manufacturer": "Kuat Systems Engineering",
+    "armed": true,
+    "crew_capacity": 1,
+    "image_url": "https://starwars-visualguide.com/assets/img/starships/65.jpg"
+  },
+  {
+    "ship_id": 203,
+    "ship_name": "Escape Pod",
+    "manufacturer": "Corellian Engineering Corporation",
+    "armed": false,
+    "crew_capacity": 2,
+    "image_url": "https://starwars-visualguide.com/assets/img/starships/31.jpg"
+  },
+  {
+    "ship_id": 204,
+    "ship_name": "Imperial Shuttle",
+    "manufacturer": "Sienar Fleet Systems",
+    "armed": true,
+    "crew_capacity": 6,
+    "image_url": "https://starwars-visualguide.com/assets/img/starships/22.jpg"
+  },
+  {
+    "ship_id": 205,
+    "ship_name": "Sith Infiltrator",
+    "manufacturer": "Republic Sienar Systems",
+    "armed": true,
+    "crew_capacity": 1,
+    "image_url": "https://starwars-visualguide.com/assets/img/starships/41.jpg"
+  },
+  {
+    "ship_id": 206,
+    "ship_name": "X-Wing Starfighter",
+    "manufacturer": "Incom Corporation",
+    "armed": true,
+    "crew_capacity": 1,
+    "image_url": "https://starwars-visualguide.com/assets/img/starships/12.jpg"
+  },
+  {
+    "ship_id": 207,
+    "ship_name": "Millennium Falcon",
+    "manufacturer": "Corellian Engineering Corporation",
+    "armed": true,
+    "crew_capacity": 6,
+    "image_url": "https://starwars-visualguide.com/assets/img/starships/10.jpg"
+  },
+  {
+    "ship_id": 208,
+    "ship_name": "Tantive IV",
+    "manufacturer": "Corellian Engineering Corporation",
+    "armed": true,
+    "crew_capacity": 30,
+    "image_url": "https://starwars-visualguide.com/assets/img/starships/2.jpg"
+  },
+  {
+    "ship_id": 209,
+    "ship_name": "Jedi Starfighter",
+    "manufacturer": "Kuat Systems Engineering",
+    "armed": true,
+    "crew_capacity": 1,
+    "image_url": "https://starwars-visualguide.com/assets/img/starships/59.jpg"
+  },
+  {
+    "ship_id": 210,
+    "ship_name": "Solar Sailer",
+    "manufacturer": "Pau'an Engineers",
+    "armed": false,
+    "crew_capacity": 1,
+    "image_url": "https://starwars-visualguide.com/assets/img/starships/58.jpg"
+  }
+]
