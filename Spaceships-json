@@ -5,7 +5,7 @@
     "manufacturer": "Kuat Systems Engineering",
     "armed": true,
     "crew_capacity": 1,
-    "image_url": "https://picsum.photos/400/200?random=201"
+    "image_url": "https://raw.githubusercontent.com/T3OP/StarWars-json/refs/heads/main/fotos/eta2.jpg"
   },
   {
     "ship_id": 202,
@@ -13,7 +13,7 @@
     "manufacturer": "Kuat Systems Engineering",
     "armed": true,
     "crew_capacity": 1,
-    "image_url": "https://picsum.photos/400/200?random=202"
+    "image_url": "https://raw.githubusercontent.com/T3OP/StarWars-json/refs/heads/main/fotos/interceptor.jpg"
   },
   {
     "ship_id": 203,
@@ -21,7 +21,7 @@
     "manufacturer": "Corellian Engineering Corporation",
     "armed": false,
     "crew_capacity": 2,
-    "image_url": "https://picsum.photos/400/200?random=203"
+    "image_url": "https://raw.githubusercontent.com/T3OP/StarWars-json/refs/heads/main/fotos/escapepod.jpg"
   },
   {
     "ship_id": 204,
@@ -29,7 +29,7 @@
     "manufacturer": "Sienar Fleet Systems",
     "armed": true,
     "crew_capacity": 6,
-    "image_url": "https://picsum.photos/400/200?random=204"
+    "image_url": "https://raw.githubusercontent.com/T3OP/StarWars-json/refs/heads/main/fotos/imperialshuttle.jpg"
   },
   {
     "ship_id": 205,
@@ -37,7 +37,7 @@
     "manufacturer": "Republic Sienar Systems",
     "armed": true,
     "crew_capacity": 1,
-    "image_url": "https://picsum.photos/400/200?random=205"
+    "image_url": "https://raw.githubusercontent.com/T3OP/StarWars-json/refs/heads/main/fotos/sithinfiltrator.jpg"
   },
   {
     "ship_id": 206,
@@ -45,7 +45,7 @@
     "manufacturer": "Incom Corporation",
     "armed": true,
     "crew_capacity": 1,
-    "image_url": "https://picsum.photos/400/200?random=206"
+    "image_url": "https://raw.githubusercontent.com/T3OP/StarWars-json/refs/heads/main/fotos/xwing.jpg"
   },
   {
     "ship_id": 207,
@@ -53,7 +53,7 @@
     "manufacturer": "Corellian Engineering Corporation",
     "armed": true,
     "crew_capacity": 6,
-    "image_url": "https://picsum.photos/400/200?random=207"
+    "image_url": "https://raw.githubusercontent.com/T3OP/StarWars-json/refs/heads/main/fotos/mileniumfalcon.jpg"
   },
   {
     "ship_id": 208,
@@ -61,7 +61,7 @@
     "manufacturer": "Corellian Engineering Corporation",
     "armed": true,
     "crew_capacity": 30,
-    "image_url": "https://picsum.photos/400/200?random=208"
+    "image_url": "https://raw.githubusercontent.com/T3OP/StarWars-json/refs/heads/main/fotos/tantive.jpg"
   },
   {
     "ship_id": 209,
@@ -69,7 +69,7 @@
     "manufacturer": "Kuat Systems Engineering",
     "armed": true,
     "crew_capacity": 1,
-    "image_url": "https://picsum.photos/400/200?random=209"
+    "image_url": "https://raw.githubusercontent.com/T3OP/StarWars-json/refs/heads/main/fotos/jedistarfighter.jpg"
   },
   {
     "ship_id": 210,
@@ -77,6 +77,6 @@
     "manufacturer": "Pau'an Engineers",
     "armed": false,
     "crew_capacity": 1,
-    "image_url": "https://picsum.photos/400/200?random=210"
+    "image_url": "https://raw.githubusercontent.com/T3OP/StarWars-json/refs/heads/main/fotos/solarsailer.jpg"
   }
 ]
