@@ -6,17 +6,10 @@
     "age": 45,
     "active": false,
     "birthdate": "1977-05-04",
-    "image_url": "https://starwars-visualguide.com/assets/img/characters/4.jpg",
+    "image_url": "https://picsum.photos/200/300?random=1",
     "affiliation": "Sith",
     "skills": ["Lightsaber combat", "Piloting", "Force choke"],
-    "spaceship": {
-      "ship_id": 201,
-      "ship_name": "Eta-2 Actis-class Interceptor",
-      "manufacturer": "Kuat Systems Engineering",
-      "armed": true,
-      "crew_capacity": 1,
-      "image_url": "https://starwars-visualguide.com/assets/img/starships/39.jpg"
-    }
+    "ship_id": 201
   },
   {
     "id": 2,
@@ -25,17 +18,10 @@
     "age": 57,
     "active": false,
     "birthdate": "1971-03-11",
-    "image_url": "https://starwars-visualguide.com/assets/img/characters/10.jpg",
+    "image_url": "https://picsum.photos/200/300?random=2",
     "affiliation": "Jedi",
     "skills": ["Diplomacy", "Lightsaber defense", "Wisdom"],
-    "spaceship": {
-      "ship_id": 202,
-      "ship_name": "Jedi Interceptor",
-      "manufacturer": "Kuat Systems Engineering",
-      "armed": true,
-      "crew_capacity": 1,
-      "image_url": "https://starwars-visualguide.com/assets/img/starships/65.jpg"
-    }
+    "ship_id": 202
   },
   {
     "id": 3,
@@ -44,17 +30,10 @@
     "age": 900,
     "active": false,
     "birthdate": "0100-01-01",
-    "image_url": "https://starwars-visualguide.com/assets/img/characters/20.jpg",
+    "image_url": "https://picsum.photos/200/300?random=3",
     "affiliation": "Jedi",
     "skills": ["Force mastery", "Wisdom", "Lightsaber acrobatics"],
-    "spaceship": {
-      "ship_id": 203,
-      "ship_name": "Escape Pod",
-      "manufacturer": "Corellian Engineering Corporation",
-      "armed": false,
-      "crew_capacity": 2,
-      "image_url": "https://starwars-visualguide.com/assets/img/starships/31.jpg"
-    }
+    "ship_id": 203
   },
   {
     "id": 4,
@@ -63,17 +42,10 @@
     "age": 82,
     "active": false,
     "birthdate": "1930-09-11",
-    "image_url": "https://starwars-visualguide.com/assets/img/characters/21.jpg",
+    "image_url": "https://picsum.photos/200/300?random=4",
     "affiliation": "Sith",
     "skills": ["Force lightning", "Manipulation", "Political strategy"],
-    "spaceship": {
-      "ship_id": 204,
-      "ship_name": "Imperial Shuttle",
-      "manufacturer": "Sienar Fleet Systems",
-      "armed": true,
-      "crew_capacity": 6,
-      "image_url": "https://starwars-visualguide.com/assets/img/starships/22.jpg"
-    }
+    "ship_id": 204
   },
   {
     "id": 5,
@@ -82,17 +54,10 @@
     "age": 45,
     "active": false,
     "birthdate": "1974-12-15",
-    "image_url": "https://starwars-visualguide.com/assets/img/characters/44.jpg",
+    "image_url": "https://picsum.photos/200/300?random=5",
     "affiliation": "Sith",
     "skills": ["Martial arts", "Lightsaber combat", "Ambush tactics"],
-    "spaceship": {
-      "ship_id": 205,
-      "ship_name": "Sith Infiltrator",
-      "manufacturer": "Republic Sienar Systems",
-      "armed": true,
-      "crew_capacity": 1,
-      "image_url": "https://starwars-visualguide.com/assets/img/starships/41.jpg"
-    }
+    "ship_id": 205
   },
   {
     "id": 6,
@@ -101,17 +66,10 @@
     "age": 53,
     "active": true,
     "birthdate": "1980-07-19",
-    "image_url": "https://starwars-visualguide.com/assets/img/characters/1.jpg",
+    "image_url": "https://picsum.photos/200/300?random=6",
     "affiliation": "Jedi",
     "skills": ["Piloting", "Force projection", "Lightsaber mastery"],
-    "spaceship": {
-      "ship_id": 206,
-      "ship_name": "X-Wing Starfighter",
-      "manufacturer": "Incom Corporation",
-      "armed": true,
-      "crew_capacity": 1,
-      "image_url": "https://starwars-visualguide.com/assets/img/starships/12.jpg"
-    }
+    "ship_id": 206
   },
   {
     "id": 7,
@@ -120,17 +78,10 @@
     "age": 65,
     "active": false,
     "birthdate": "1970-07-13",
-    "image_url": "https://starwars-visualguide.com/assets/img/characters/14.jpg",
+    "image_url": "https://picsum.photos/200/300?random=7",
     "affiliation": "Rebel",
     "skills": ["Piloting", "Blaster mastery", "Tactics"],
-    "spaceship": {
-      "ship_id": 207,
-      "ship_name": "Millennium Falcon",
-      "manufacturer": "Corellian Engineering Corporation",
-      "armed": true,
-      "crew_capacity": 6,
-      "image_url": "https://starwars-visualguide.com/assets/img/starships/10.jpg"
-    }
+    "ship_id": 207
   },
   {
     "id": 8,
@@ -139,17 +90,10 @@
     "age": 54,
     "active": false,
     "birthdate": "1976-10-21",
-    "image_url": "https://starwars-visualguide.com/assets/img/characters/5.jpg",
+    "image_url": "https://picsum.photos/200/300?random=8",
     "affiliation": "Rebel",
     "skills": ["Leadership", "Diplomacy", "Tactics"],
-    "spaceship": {
-      "ship_id": 208,
-      "ship_name": "Tantive IV",
-      "manufacturer": "Corellian Engineering Corporation",
-      "armed": true,
-      "crew_capacity": 30,
-      "image_url": "https://starwars-visualguide.com/assets/img/starships/2.jpg"
-    }
+    "ship_id": 208
   },
   {
     "id": 9,
@@ -158,17 +102,10 @@
     "age": 60,
     "active": false,
     "birthdate": "1960-04-12",
-    "image_url": "https://starwars-visualguide.com/assets/img/characters/12.jpg",
+    "image_url": "https://picsum.photos/200/300?random=9",
     "affiliation": "Jedi",
     "skills": ["Vaapad lightsaber form", "Leadership", "Force push"],
-    "spaceship": {
-      "ship_id": 209,
-      "ship_name": "Jedi Starfighter",
-      "manufacturer": "Kuat Systems Engineering",
-      "armed": true,
-      "crew_capacity": 1,
-      "image_url": "https://starwars-visualguide.com/assets/img/starships/59.jpg"
-    }
+    "ship_id": 209
   },
   {
     "id": 10,
@@ -177,16 +114,9 @@
     "age": 83,
     "active": false,
     "birthdate": "1915-02-25",
-    "image_url": "https://starwars-visualguide.com/assets/img/characters/67.jpg",
+    "image_url": "https://picsum.photos/200/300?random=10",
     "affiliation": "Sith",
     "skills": ["Force lightning", "Manipulation", "Elegant lightsaber combat"],
-    "spaceship": {
-      "ship_id": 210,
-      "ship_name": "Solar Sailer",
-      "manufacturer": "Pau'an Engineers",
-      "armed": false,
-      "crew_capacity": 1,
-      "image_url": "https://starwars-visualguide.com/assets/img/starships/58.jpg"
-    }
+    "ship_id": 210
   }
 ]
