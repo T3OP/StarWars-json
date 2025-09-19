@@ -6,7 +6,7 @@
     "age": 45,
     "active": false,
     "birthdate": "1977-05-04",
-    "image_url": "https://picsum.photos/200/300?random=1",
+    "image_url": "https://raw.githubusercontent.com/T3OP/StarWars-json/refs/heads/main/fotos/anakin.jpg",
     "affiliation": "Sith",
     "skills": ["Lightsaber combat", "Piloting", "Force choke"],
     "ship_id": 201
@@ -18,7 +18,7 @@
     "age": 57,
     "active": false,
     "birthdate": "1971-03-11",
-    "image_url": "https://picsum.photos/200/300?random=2",
+    "image_url": "https://raw.githubusercontent.com/T3OP/StarWars-json/refs/heads/main/fotos/obiwan.jpg",
     "affiliation": "Jedi",
     "skills": ["Diplomacy", "Lightsaber defense", "Wisdom"],
     "ship_id": 202
@@ -30,7 +30,7 @@
     "age": 900,
     "active": false,
     "birthdate": "0100-01-01",
-    "image_url": "https://picsum.photos/200/300?random=3",
+    "image_url": "https://raw.githubusercontent.com/T3OP/StarWars-json/refs/heads/main/fotos/masteryoda.jpg",
     "affiliation": "Jedi",
     "skills": ["Force mastery", "Wisdom", "Lightsaber acrobatics"],
     "ship_id": 203
@@ -42,7 +42,7 @@
     "age": 82,
     "active": false,
     "birthdate": "1930-09-11",
-    "image_url": "https://picsum.photos/200/300?random=4",
+    "image_url": "https://raw.githubusercontent.com/T3OP/StarWars-json/refs/heads/main/fotos/palpatine.jpg",
     "affiliation": "Sith",
     "skills": ["Force lightning", "Manipulation", "Political strategy"],
     "ship_id": 204
@@ -54,7 +54,7 @@
     "age": 45,
     "active": false,
     "birthdate": "1974-12-15",
-    "image_url": "https://picsum.photos/200/300?random=5",
+    "image_url": "https://raw.githubusercontent.com/T3OP/StarWars-json/refs/heads/main/fotos/darthmaul.jpg",
     "affiliation": "Sith",
     "skills": ["Martial arts", "Lightsaber combat", "Ambush tactics"],
     "ship_id": 205
@@ -66,7 +66,7 @@
     "age": 53,
     "active": true,
     "birthdate": "1980-07-19",
-    "image_url": "https://picsum.photos/200/300?random=6",
+    "image_url": "https://raw.githubusercontent.com/T3OP/StarWars-json/refs/heads/main/fotos/luke.jpg",
     "affiliation": "Jedi",
     "skills": ["Piloting", "Force projection", "Lightsaber mastery"],
     "ship_id": 206
@@ -78,7 +78,7 @@
     "age": 65,
     "active": false,
     "birthdate": "1970-07-13",
-    "image_url": "https://picsum.photos/200/300?random=7",
+    "image_url": "https://raw.githubusercontent.com/T3OP/StarWars-json/refs/heads/main/fotos/hansolo.jpg",
     "affiliation": "Rebel",
     "skills": ["Piloting", "Blaster mastery", "Tactics"],
     "ship_id": 207
@@ -90,7 +90,7 @@
     "age": 54,
     "active": false,
     "birthdate": "1976-10-21",
-    "image_url": "https://picsum.photos/200/300?random=8",
+    "image_url": "https://raw.githubusercontent.com/T3OP/StarWars-json/refs/heads/main/fotos/leia.jpg",
     "affiliation": "Rebel",
     "skills": ["Leadership", "Diplomacy", "Tactics"],
     "ship_id": 208
@@ -102,7 +102,7 @@
     "age": 60,
     "active": false,
     "birthdate": "1960-04-12",
-    "image_url": "https://picsum.photos/200/300?random=9",
+    "image_url": "https://raw.githubusercontent.com/T3OP/StarWars-json/refs/heads/main/fotos/macewindu.jpg",
     "affiliation": "Jedi",
     "skills": ["Vaapad lightsaber form", "Leadership", "Force push"],
     "ship_id": 209
@@ -114,7 +114,7 @@
     "age": 83,
     "active": false,
     "birthdate": "1915-02-25",
-    "image_url": "https://picsum.photos/200/300?random=10",
+    "image_url": "https://raw.githubusercontent.com/T3OP/StarWars-json/refs/heads/main/fotos/countdooku.jpg",
     "affiliation": "Sith",
     "skills": ["Force lightning", "Manipulation", "Elegant lightsaber combat"],
     "ship_id": 210
