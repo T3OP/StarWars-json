@@ -92,7 +92,7 @@
 "birthdate": "1965-07-01",
 "image_url": "https://raw.githubusercontent.com/T3OP/StarWars-json/refs/heads/main/fotos/vader.jpg",
 "affiliation": "Empire",
-"skills": ["Lightsaber Combat", "Force Choke", "Intimidation", "Tactics"],
+"skills": ["Lightsaber Combat", "Force Choke", "Intimidation"],
 "ship_id": 208
   },
   {
