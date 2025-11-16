@@ -84,16 +84,16 @@
     "ship_id": 207
   },
   {
-    "id": 8,
-    "name": "Princess Leia Organa",
-    "description": "Leidster van de Rebel Alliance en symbool van hoop tegen het Empire.",
-    "age": 54,
-    "active": false,
-    "birthdate": "1976-10-21",
-    "image_url": "https://raw.githubusercontent.com/T3OP/StarWars-json/refs/heads/main/fotos/leia.jpg",
-    "affiliation": "Rebel",
-    "skills": ["Leadership", "Diplomacy", "Tactics"],
-    "ship_id": 208
+"id": 8,
+"name": "Darth Vader",
+"description": "Sith Lord en rechterhand van de Keizer, gehuld in zwarte armor en verantwoordelijk voor de onderdrukking van de Galactische Empire.",
+"age": 45,
+"active": false,
+"birthdate": "1965-07-01",
+"image_url": "https://raw.githubusercontent.com/T3OP/StarWars-json/refs/heads/main/fotos/vader.jpg",
+"affiliation": "Empire",
+"skills": ["Lightsaber Combat", "Force Choke", "Intimidation", "Tactics"],
+"ship_id": 208
   },
   {
     "id": 9,
