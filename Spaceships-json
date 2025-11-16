@@ -57,11 +57,11 @@
   },
   {
     "ship_id": 208,
-    "ship_name": "Tantive IV",
-    "manufacturer": "Corellian Engineering Corporation",
+    "ship_name": "TIE Advanced x1",
+    "manufacturer": "Sienar Fleet Systems",
     "armed": true,
-    "crew_capacity": 30,
-    "image_url": "https://raw.githubusercontent.com/T3OP/StarWars-json/refs/heads/main/fotos/tantive.jpg"
+    "crew_capacity": 1,
+    "image_url": "https://raw.githubusercontent.com/T3OP/StarWars-json/refs/heads/main/fotos/TieAdvanced.jpg"
   },
   {
     "ship_id": 209,
