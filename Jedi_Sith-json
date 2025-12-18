@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Anakin Skywalker",
-    "description": "Een begaafde Jedi Knight die uiteindelijk valt naar de Dark Side en Darth Vader wordt.",
+    "description": "A gifted Jedi Knight who eventually falls to the Dark Side and becomes Darth Vader.",
     "age": 45,
     "active": false,
     "birthdate": "1977-05-04",
@@ -14,7 +14,7 @@
   {
     "id": 2,
     "name": "Obi-Wan Kenobi",
-    "description": "Een loyale Jedi Master die Anakin trainde en later Luke begeleidde.",
+    "description": "A loyal Jedi Master who trained Anakin and later mentored Luke.",
     "age": 57,
     "active": false,
     "birthdate": "1971-03-11",
@@ -26,7 +26,7 @@
   {
     "id": 3,
     "name": "Yoda",
-    "description": "De oudste en wijsste Jedi Master, leider van de Jedi Council.",
+    "description": "The oldest and wisest Jedi Master, leader of the Jedi Council.",
     "age": 900,
     "active": false,
     "birthdate": "0100-01-01",
@@ -38,7 +38,7 @@
   {
     "id": 4,
     "name": "Darth Sidious",
-    "description": "De Sith Lord die bekend staat als Emperor Palpatine, meester van de Dark Side.",
+    "description": "The Sith Lord known as Emperor Palpatine, master of the Dark Side.",
     "age": 82,
     "active": false,
     "birthdate": "1930-09-11",
@@ -50,7 +50,7 @@
   {
     "id": 5,
     "name": "Darth Maul",
-    "description": "Een Zabrak Sith Lord bekend om zijn dubbele lightsaber en intense woede.",
+    "description": "A Zabrak Sith Lord known for his dual lightsaber and intense wrath.",
     "age": 45,
     "active": false,
     "birthdate": "1974-12-15",
@@ -62,7 +62,7 @@
   {
     "id": 6,
     "name": "Luke Skywalker",
-    "description": "De zoon van Anakin Skywalker en Padmé, die de Jedi Order herstelt.",
+    "description": "The son of Anakin Skywalker and Padmé, who restores the Jedi Order.",
     "age": 53,
     "active": true,
     "birthdate": "1980-07-19",
@@ -74,7 +74,7 @@
   {
     "id": 7,
     "name": "Han Solo",
-    "description": "Een charmante smokkelaar die een held werd in de Rebel Alliance.",
+    "description": "A charming smuggler who became a hero in the Rebel Alliance.",
     "age": 65,
     "active": false,
     "birthdate": "1970-07-13",
@@ -86,7 +86,7 @@
   {
     "id": 8,
     "name": "Darth Vader",
-    "description": "Sith Lord en rechterhand van de Keizer, gehuld in zwarte armor en verantwoordelijk voor de onderdrukking van de Galactische Empire.",
+    "description": "Sith Lord and right-hand man of the Emperor, clad in black armor and responsible for the oppression of the Galactic Empire.",
     "age": 45,
     "active": false,
     "birthdate": "1965-07-01",
@@ -98,7 +98,7 @@
   {
     "id": 9,
     "name": "Mace Windu",
-    "description": "Een krachtige Jedi Master, bekend om zijn unieke paarse lightsaber.",
+    "description": "A powerful Jedi Master, known for his unique purple lightsaber.",
     "age": 60,
     "active": false,
     "birthdate": "1960-04-12",
@@ -110,7 +110,7 @@
   {
     "id": 10,
     "name": "Count Dooku",
-    "description": "Een voormalig Jedi Master die een Sith Lord werd en de Clone Wars startte.",
+    "description": "A former Jedi Master who became a Sith Lord and started the Clone Wars.",
     "age": 83,
     "active": false,
     "birthdate": "1915-02-25",
